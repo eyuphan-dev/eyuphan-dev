@@ -7,4 +7,4 @@ I'm a backend developer with experience in **Django**, **FastAPI**, and **web de
 
 📫 **Reach me**: [LinkedIn](https://www.linkedin.com/in/eyuphan-ipek/)
 
-![Tech Image](https://www.buitms.edu.pk/content/img/fict/se.png)
+![Tech Image](https://tpssoft.com/wp-content/uploads/2024/09/Software-Development-Services-1200x380-01.jpg)
