@@ -3,7 +3,7 @@
 I'm a backend developer with experience in **Django**, **FastAPI**, and **web development**. Currently studying **Mathematics and Computer Science**. I focus on building efficient and scalable systems with a strong background in APIs and backend technologies.
 
 
-🔭 **Currently focusing on**: Django, FastAPI, Web APIs.
+🔭 **Currently focusing on**: Django, FastAPI, Web APIs. 
 
 📫 **Reach me**: [LinkedIn](https://www.linkedin.com/in/eyuphan-ipek/)
 
