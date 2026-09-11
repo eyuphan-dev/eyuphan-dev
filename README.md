@@ -1,9 +1,8 @@
-# Hi, I'm Eyüphan! 👋
+# Hi, I'm Eyüphan!
 
-I'm a backend developer with experience in **Django**, **FastAPI**, and **web development**. Currently studying **Mathematics and Computer Science**. I focus on building efficient and scalable systems with a strong background in APIs and backend technologies.
+I'm a **Software Developer** with experience in **Django**, **FastAPI**, **Node.js**, **React**, **Next.js**, and **web development**. Currently studying **Mathematics and Computer Science**. I focus on building efficient and scalable systems with a strong background in APIs, backend technologies, and modern web applications.
 
-
-🔭 **Currently focusing on**: Django, FastAPI, Web APIs. 
+🔭 **Currently focusing on**: Django, FastAPI, Node.js, React, Next.js, and Web APIs.
 
 📫 **Reach me**: [LinkedIn](https://www.linkedin.com/in/eyuphan-ipek/)
 
